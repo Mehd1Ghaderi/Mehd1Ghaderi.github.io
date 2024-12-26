@@ -1,1 +1,0 @@
-import{a as e,o,b as n,r as s}from"./entry.e3fb9d01.js";const c={},r={class:"text-3xl sm:text-5xl text-base-content font-title pb-4 font-medium"};function _(t,a){return o(),n("h2",r,[s(t.$slots,"default")])}const f=e(c,[["render",_]]);export{f as _};
