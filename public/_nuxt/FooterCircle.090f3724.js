@@ -1,0 +1,1 @@
+import{a as e,o as t,b as c,m as s}from"./entry.e3fb9d01.js";const o={},r={class:"flex justify-center z-50"},n=s("div",{class:"circle fixed -bottom-1/2 place-items-center rounded-full w-24 h-24 bg-base-200"},null,-1),a=[n];function l(_,i){return t(),c("div",r,a)}const f=e(o,[["render",l]]);export{f as default};
